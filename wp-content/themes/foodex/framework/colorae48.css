@@ -1,0 +1,217 @@
+
+.header-navigation .container .right-side-box a.rqa-btn{
+
+    background: #e5c27b;
+
+}
+.btn{
+  background-color: #e5c27b;
+  background-image:none;
+}
+.section-title .sub-title{
+  color: #e5c27b;
+}
+.section-title::before,
+.services-content h4::before{
+  display:none;
+}
+.services-icon::after{
+  background-color: #e5c27b;
+  background-image:none;
+}
+.services-icon{
+  background-color: #e5c27b;
+  background-image:none;
+}
+.services-content > a.read-more{
+  background-color: #e5c27b;
+  background-image:none;
+}
+.pack-price-info .pack-sub-title{
+  color: #e5c27b;
+}
+.package-pricing-box .pricing-tab{
+  background-color: #e5c27b;
+  background-image:none;
+}
+.pack-pricing-head .icon{
+  background-color: #e5c27b;
+  background-image:none;
+}
+.package-pricing-box .pricing-tab .pricing-tab-switcher:before{
+  background-color: #e5c27b;
+  background-image:none;
+}
+.faq-set > a.active {
+    background: #e5c27b;
+    border-color: #e5c27b;
+}
+.faq-set > a i::after{
+  background-color: #e5c27b;
+  background-image:none;
+}
+.scroll-top{
+  background-color: #e5c27b;
+  background-image:none;
+}
+.blog-post-tag i {
+    color: #e5c27b;
+}
+.blog-content-bottom ul li.link a{
+  background-color: #e5c27b;
+  background-image:none;
+}
+.faq-set > a.active i{
+  color: #e5c27b;
+}
+.blog-post-content-left a:hover, .blog-post-right-content .title a:hover, .copyright-social ul li a:hover, .copyright-text p a:hover{
+  color: #e5c27b;
+}
+.navbar-wrap > ul > li.active > a, .navbar-wrap > ul > li:hover > a, .navbar-wrap ul li .submenu li.active > a, .navbar-wrap ul li .submenu li:hover > a, .mobile-menu .navigation li.active > a, .mobile-menu .navigation li ul li.active > a{
+  color: #e5c27b;
+}
+.home2 .domain-search-two .domain-search-form .btn{
+  background-color: #e5c27b!important;
+}
+.blog-post-two .blog-content-bottom .d-link a{
+  color: #e5c27b;
+}
+.blog-post-two .blog-post-content .title a:hover{
+  color: #e5c27b;
+}
+.testimonial-thumb::before {
+    border: 12.5px solid #e5c27b;
+}
+.testimonial-active .slick-dots li.slick-active button{
+  background: #e5c27b;
+}
+.breadcrumb-item+.breadcrumb-item::before {
+    background: #e5c27b;
+}
+.footer-style-three .newsletter-title h5 span, .footer-style-three .fw-link ul li a:hover, .footer-style-three .fw-post-content h5 a:hover, .footer-style-three .fw-post-content span i, .footer-style-three .copyright-text p span{
+  color: #e5c27b;
+}
+.footer-style-three .newsletter-form input.wpcf7-submit {
+    background: #e5c27b;
+}
+.footer-style-three .newsletter-form button, .footer-style-three .fw-title-two .title::after, .footer-style-three .fw-address .btn {
+    background: #e5c27b;
+}
+.footer-style-three .newsletter-form button, .footer-style-three .fw-title-two .title::after, .footer-style-three .fw-address .btn {
+    background: #e5c27b;
+}
+.pricing-icon i, .pricing-list h5{
+  background-color: #e5c27b;
+  background-image:none;
+}
+.blog--post--thumb .blog-post-date{
+  background-color: #e5c27b;
+  background-image:none;
+}
+.blog--post--meta ul li i ,
+.blog--post--bottom > a span{
+    color: #e5c27b;
+}
+.blog--post--content h4 a:hover, .blog--post--meta ul li a:hover, .blog--post--bottom > a:hover, .blog--post--bottom .blog-post-share a:hover {
+    color: #e5c27b;
+}
+.pagination-wrap ul li a::before{
+  background-color: #e5c27b;
+  background-image:none;
+}
+.tag-list ul li a:hover {
+    background: #e5c27b;
+}
+.rc-post-content h5 a:hover {
+    color: #e5c27b;
+}
+.sidebar-about-social ul li a:hover {
+    color: #e5c27b;
+}
+.fw-link ul li a:hover {
+    color: #e5c27b;
+}
+.hosting-features-area .title-style-two .sub-title{
+  color: #e5c27b;
+}
+.hosting-services-content h4 a:hover{
+  color: #e5c27b;
+}
+.blog-post-two .blog-post-content::before {
+    background: #e5c27b;
+}
+.newsletter-title h5 span {
+    color:#e5c27b;
+}
+.fw-title-two .title::after{
+  background:#e5c27b;
+}
+.copyright-wrap-two .copyright-text p span{
+  color:#e5c27b;
+}
+.footer-style-two .fw-link ul li a:hover {
+    color: #e5c27b;
+}
+.services-content h4 a:hover {
+    color: #e5c27b;
+}
+.white-title .sub-title{
+  color:#fff!important;
+}
+.pricing-list h5::before{
+  display:none;
+}
+.sidebar-form form button{
+  background-color: #e5c27b;
+  background-image:none;
+}
+.widget_categories ul li a:hover {
+    background: #e5c27b;
+}
+.wp-tag-cloud a:hover {
+    background: #e5c27b;
+}
+ul.pagination li span.current{
+  background-color: #e5c27b;
+  background-image:none;
+}
+.related-tag ul li a:hover, .post-avatar-content ul li a:hover {
+    background: #e5c27b;
+}
+a:hover{
+  color: #e5c27b;
+}
+.blog-comment .widget-title::before, .blog-comment .widget-title::after, .comment-reply-box .widget-title::before, .comment-reply-box .widget-title::after {
+    background: #e5c27b;
+}
+.conatct-post-form p.form-submit input.submit{
+  background-color: #e5c27b;
+  background-image:none;
+}
+.comment-reply-link:hover {
+    color: #e5c27b;
+}
+.pricing-box-tabs .nav-tabs li a.active{
+  background-color: #e5c27b;
+  background-image:none;
+}
+.contact-form-wrap form input.wpcf7-submit,
+.contact-info-wrap::before{
+  background-color: #e5c27b;
+  background-image:none;
+}
+.contact-info-list ul li .icon,
+.contact-info-bottom .btn{
+  color: #e5c27b;
+}
+.btn:hover,
+.conatct-post-form p.form-submit input.submit:hover{
+  background-color: #031a75!important;
+}
+.hosting-services-icon::before{
+  background: #e5c27b;
+}
+.header-top-offer .time-count span {
+  background-color: #e5c27b;
+  background-image:none;
+}
